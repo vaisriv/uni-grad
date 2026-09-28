@@ -1,6 +1,12 @@
 [submodule "26f/ENAE694/hw/hw01"]
 	path = 26f/ENAE694/hw/hw01
-	url = git@github.com:vaisriv/enae694-hw01
+	url = git@github.com:vaisriv/enae694-hw01.git
 [submodule "26f/ENAE601/hw/hw01"]
 	path = 26f/ENAE601/hw/hw01
 	url = git@github.com:vaisriv/enae601-hw01.git
+[submodule "26f/ENAE641/hw/hw01"]
+	path = 26f/ENAE641/hw/hw01
+	url = git@github.com:vaisriv/enae641-hw01.git
+[submodule "26f/ENAE694/hw/hw02"]
+	path = 26f/ENAE694/hw/hw02
+	url = git@github.com:vaisriv/enae694-hw02.git
