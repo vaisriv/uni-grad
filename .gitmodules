@@ -22,3 +22,6 @@
 [submodule "26f/ENAE601/hw/hw04"]
 	path = 26f/ENAE601/hw/hw04
 	url = git@github.com:vaisriv/enae601-hw04.git
+[submodule "26f/ENAE641/hw/hw03"]
+	path = 26f/ENAE641/hw/hw03
+	url = git@github.com:vaisriv/enae641-hw03.git
