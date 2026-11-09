@@ -4,9 +4,6 @@
 [submodule "26f/ENAE601/hw/hw01"]
 	path = 26f/ENAE601/hw/hw01
 	url = git@github.com:vaisriv/enae601-hw01.git
-[submodule "26f/ENAE641/hw/hw01"]
-	path = 26f/ENAE641/hw/hw01
-	url = git@github.com:vaisriv/enae641-hw01.git
 [submodule "26f/ENAE694/hw/hw02"]
 	path = 26f/ENAE694/hw/hw02
 	url = git@github.com:vaisriv/enae694-hw02.git
@@ -16,18 +13,12 @@
 [submodule "26f/ENAE601/hw/hw03"]
 	path = 26f/ENAE601/hw/hw03
 	url = git@github.com:vaisriv/enae601-hw03.git
-[submodule "26f/ENAE641/hw/hw02"]
-	path = 26f/ENAE641/hw/hw02
-	url = git@github.com:vaisriv/enae641-hw02.git
 [submodule "26f/ENAE694/hw/hw03"]
 	path = 26f/ENAE694/hw/hw03
 	url = git@github.com:vaisriv/enae694-hw03.git
 [submodule "26f/ENAE601/hw/hw04"]
 	path = 26f/ENAE601/hw/hw04
 	url = git@github.com:vaisriv/enae601-hw04.git
-[submodule "26f/ENAE641/hw/hw03"]
-	path = 26f/ENAE641/hw/hw03
-	url = git@github.com:vaisriv/enae641-hw03.git
 [submodule "26f/ENAE601/exams/midterm"]
 	path = 26f/ENAE601/exams/midterm
 	url = git@github.com:vaisriv/enae601-midterm.git
