@@ -22,3 +22,6 @@
 [submodule "26f/ENAE601/exams/midterm"]
 	path = 26f/ENAE601/exams/midterm
 	url = git@github.com:vaisriv/enae601-midterm.git
+[submodule "26f/ENAE694/hw/hw04"]
+	path = 26f/ENAE694/hw/hw04
+	url = git@github.com:vaisriv/enae694-hw04.git
