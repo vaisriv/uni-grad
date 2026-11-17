@@ -28,3 +28,6 @@
 [submodule "26f/ENAE601/project"]
 	path = 26f/ENAE601/project
 	url = git@github.com:vaisriv/enae601-project.git
+[submodule "26f/ENAE601/hw/hw05"]
+	path = 26f/ENAE601/hw/hw05
+	url = git@github.com:vaisriv/enae601-hw05.git
